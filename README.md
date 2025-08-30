@@ -1,0 +1,2 @@
+# DEVELOPMENT-OF-A-SECURE-DEDUPLICATION-OF-TEXTUAL-DATA-IN-CLOUD-USING-CONVERGENT-ALGORITHM
+Developed a cloud storage system using convergent encryption &amp; data deduplication for optimized storage. Files are encrypted with content-derived keys for confidentiality, enabling deduplication. SHA-256 for integrity, MySQL for metadata/access/duplicate detection. Enhances efficiency, reduces bandwidth, secures file ops in cloud.
